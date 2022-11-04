@@ -19,7 +19,7 @@ Created 4 virtual machines from azure portal according to the Topology 1.0 ;
 * don’t forget to save-download your json files
 * all vm’s will be in the same rg
 *	NEXT 6 pictures (1A…1F) show VMs, VNETs and RG configuration.
-*	On the file storage part on GitHub, you can see-download ARM templates as a separate file.
+*	On the file storage(go to file)part on GitHub, you can see-download ARM templates as a separate file.
 ## Step 2-3:
 Created 2 VNET peering between vnet01-vnet2 and vnet01-vnet3 like on the Topology 1.0 ; 
 * After setting up 2 peering check the connectivity between them.
