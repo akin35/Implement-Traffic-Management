@@ -11,17 +11,12 @@
 6.	Implement Azure Application Gateway
 
 ## Solution of Implement Traffic Management step by step:
-1.	Provision the environment
-2.	Configure hub and spoke network topology
-3.	Test transitivity of virtual networking peering
-4.	Configure routing in the hub and spoke topology
-5.	Implement Azure Load Balancer
-6.	Implement Azure Application Gateway
+
 ## Step 1:
 Created 4 virtual machines from azure portal according to the Topology 1.0 ; 
-	be careful vnets and subnets configurations
-	there is no public ip on the vm’s 
-	don’t forget to save-download your json files
+* be careful vnets and subnets configurations
+* there is no public ip on the vm’s 
+* don’t forget to save-download your json files
 	all vm’s will be in the same rg
 	NEXT 6 pictures (1A…1F) show VMs, VNETs and RG configuration.
 	On the file storage part on GitHub, you can see-download ARM templates as a separate file.
