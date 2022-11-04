@@ -35,7 +35,7 @@ Implemented Azure Load Balancer on vm0 and vm1 and named az104-06-lb4 like on th
 *	Public ip assigned to the Load balancer which is called az104-06-pip4
 *	Configuration is shown on the picture(4A…4D)
 *	There is no NAT rules
-Step 6:
+## Step 6:
 Implemented Azure Application Gateway on vm0 and vm1 and named az104-06-lb4 like on the Topology 1.0 ; 
 *	Implementation take placed on the resource group 5 (rg5)
 *	Public ip assigned to the Load balancer which is called az104-06-pip5
